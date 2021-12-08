@@ -1,0 +1,4 @@
+[debug] [cleancode-test] Classpath dependencies List()
+[debug] [cleancode-test] Dependencies from configurations List(cleancode)
+[debug] Bloop wrote the configuration of project 'cleancode-test' to '/home/knoldus/Documents/Knoldus_Assignments/SBT-ASSIGN/cleancode/.bloop/cleancode-test.json'
+[success] Generated .bloop/cleancode-test.json
